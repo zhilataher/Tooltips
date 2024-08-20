@@ -1,0 +1,27 @@
+.conttaire {
+  position: relative;
+}
+img {
+  position: fixed;
+  width: 400px;
+  height: 440px;
+  top: 15%;
+  left: 35%;
+  z-index: -1;
+}
+.quite {
+  z-index: 1;
+  width: 350px;
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  text-align: center;
+  font-size: 30px;
+}
+.name {
+  z-index: 1;
+  position: absolute;
+  top: 60%;
+  left: 35%;
+  font-style: italic;
+}
